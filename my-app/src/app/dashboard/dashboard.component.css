@@ -1,0 +1,4 @@
+.dashboard-height{
+    height: calc(100% - 50px);
+    margin: 0px;
+}
